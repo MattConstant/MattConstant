@@ -9,7 +9,7 @@
 ## :sassy_man:  About me
 - :school: I am a second year student at Sheridan College
 - :trophy: I Graduate in 2023!
-- :computer: I take great interest learning about programming
+- :computer: I take great interest in computer science
 - :student: I’m currently learning: `Angular` and `Big Data Management`.
 - :nerd_face: I am always `learning new things`
 
