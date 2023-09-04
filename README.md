@@ -5,7 +5,6 @@
 
 
 
-
 ## :sassy_man:  About me
 - :school: I am a second year student at Sheridan College
 - :trophy: I Graduate in 2023!
