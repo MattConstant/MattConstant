@@ -13,10 +13,6 @@
 - :student: I’m currently learning: `Dev ops` and `React`.
 - :nerd_face: I am always `learning new things`
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mattconstant&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=mattconstant&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
