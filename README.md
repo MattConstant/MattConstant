@@ -7,7 +7,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Sheridan College 2024 Graduate:trophy:
+- :school: I am a Sheridan College 2023 Graduate :trophy:
 - :computer: I take great interest in computer science
 - :student: I’m currently learning: `Dev ops` and `React`.
 - :nerd_face: I am always `learning new things`
