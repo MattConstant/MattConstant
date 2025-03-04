@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🎓 **Sheridan College 2023 Graduate** 🏆  
 - 💻 Passionate about **software development, DevOps, and cloud computing**  
-- 🌱 Currently **exploring AWS, React, and CI/CD**  
+- 🌱 Currently **exploring DevOps, React, and CI/CD**  
 - 📖 Always eager to **learn new technologies & frameworks**  
 - 🛠️ Love **solving problems & building efficient solutions**  
 
@@ -29,41 +29,27 @@
 
 ### 🖥️ Programming Languages  
 <p align="center">
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,cs,python" />
 </p>
 
 ### 🎨 Frontend Development  
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,angular" />
 </p>
 
-### 🔧 Frameworks & Libraries
+### 🔧 Frameworks & Libraries  
 <p align="center">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,thymeleaf" />
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
 ### 🛠️ Dev Tools & IDEs  
 <p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-  <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
-  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,clion,netbeans" />
 </p>
 
 ---
