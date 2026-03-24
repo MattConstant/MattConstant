@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Sheridan College 2023 Graduate, Currently working at Public Safety Canada as a Frontend Dev** 🏆  
+- 🎓 **Sheridan College 2023 Graduate, Currently working at Public Safety Canada as a Cloud Developer** 🏆  
 - 💻 Passionate about **software development, DevOps, and cloud computing**  
-- 🌱 Currently **exploring DevOps, React, and CI/CD**  
+- 🌱 Currently **exploring Containerization & Kubernetes**  
 - 📖 Always eager to **learn new technologies & frameworks**  
 - 🛠️ Love **solving problems & building efficient solutions**  
 
